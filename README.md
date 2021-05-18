@@ -11,7 +11,7 @@ Example of how the ui looks:
 Video of me showing off the ui: https://www.youtube.com/watch?v=wHn6xTdsiiU
 
 Example usage of the ui: 
-</p>
+
 ```
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Bracket-V2/main/src.lua"))()
 
