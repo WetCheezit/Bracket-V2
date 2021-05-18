@@ -6,7 +6,7 @@ This used to be a private lib, but I was given permission to release the ui
 <p align="center">
 Example of how the ui looks:
 
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/71396088/118593186-1ad56900-b75c-11eb-9a4e-897dbaadc83f.png)
 
 
