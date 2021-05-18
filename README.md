@@ -1,5 +1,14 @@
 # Bracket-V2
+I'm releasing a UI my friend made like a month back. https://v3rmillion.net/member.php?action...uid=746442
 
+This used to be a private lib, but I was given permission to release the ui
+
+Example of how the ui looks:
+![image](https://user-images.githubusercontent.com/71396088/118592553-f331d100-b75a-11eb-9365-ab54cfca23ca.png)
+
+Video of me showing off the ui: https://www.youtube.com/watch?v=wHn6xTdsiiU
+
+Example usage of the ui: 
 ```
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Bracket-V2/main/src.lua"))()
 
