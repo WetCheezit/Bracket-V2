@@ -1,8 +1,10 @@
-<p align="center">
-original release thread: https://v3rmillion.net/showthread.php?tid=1116477
+#Bracket-V2
 
 <p align="center">
 I'm releasing a UI my friend made like a month back. https://v3rmillion.net/member.php?action...uid=746442
+
+<p align="center">
+original release thread: https://v3rmillion.net/showthread.php?tid=1116477
 <p align="center">
 This used to be a private lib, but I was given permission to release the ui
 
