@@ -5,7 +5,9 @@ This used to be a private lib, but I was given permission to release the ui
 
 <p align="center">
 Example of how the ui looks:
-   ![image](https://user-images.githubusercontent.com/71396088/118592553-f331d100-b75a-11eb-9365-ab54cfca23ca.png)
+
+<p align="center">
+![image](https://user-images.githubusercontent.com/71396088/118592553-f331d100-b75a-11eb-9365-ab54cfca23ca.png)
 <p align="center">
 Video of me showing off the ui: https://www.youtube.com/watch?v=wHn6xTdsiiU
 <p align="center">
