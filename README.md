@@ -7,7 +7,7 @@ This used to be a private lib, but I was given permission to release the ui
 Example of how the ui looks:
 
 <p align="center">
-  <img width="300" height="720" src="https://user-images.githubusercontent.com/71396088/118593186-1ad56900-b75c-11eb-9a4e-897dbaadc83f.png">
+  <img width="542" height="533" src="https://user-images.githubusercontent.com/71396088/118593186-1ad56900-b75c-11eb-9a4e-897dbaadc83f.png">
 </p>
 
 <p align="center">
