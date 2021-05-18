@@ -1,7 +1,7 @@
 <p align="center">
-    I'm releasing a UI my friend made like a month back. https://v3rmillion.net/member.php?action...uid=746442
+I'm releasing a UI my friend made like a month back. https://v3rmillion.net/member.php?action...uid=746442
 
-    This used to be a private lib, but I was given permission to release the ui
+This used to be a private lib, but I was given permission to release the ui
 
 
 Example of how the ui looks:
@@ -12,7 +12,6 @@ Video of me showing off the ui: https://www.youtube.com/watch?v=wHn6xTdsiiU
 
 Example usage of the ui: 
 </p>
-
 ```
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Bracket-V2/main/src.lua"))()
 
