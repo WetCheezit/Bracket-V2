@@ -1,15 +1,15 @@
 <p align="center">
 I'm releasing a UI my friend made like a month back. https://v3rmillion.net/member.php?action...uid=746442
-
+<p align="center">
 This used to be a private lib, but I was given permission to release the ui
 
-
+<p align="center">
 Example of how the ui looks:
-
+<p align="center">
 ![image](https://user-images.githubusercontent.com/71396088/118592553-f331d100-b75a-11eb-9365-ab54cfca23ca.png)
-
+<p align="center">
 Video of me showing off the ui: https://www.youtube.com/watch?v=wHn6xTdsiiU
-
+<p align="center">
 Example usage of the ui: 
 
 ```
